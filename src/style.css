@@ -1,5 +1,15 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
+body {
     background: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+
+
 }
